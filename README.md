@@ -1,6 +1,6 @@
 ## Hi there :wave:, I'm Malky
 I am a software engineering who loves programming and always wants to learn more and increase my knowledge
-## :female-technologist:Languages, Tools and Technologies I Know and use
+## female-technologist:Languages, Tools and Technologies I Know and use:
 <code><img height="40"  width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
