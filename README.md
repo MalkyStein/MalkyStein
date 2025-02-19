@@ -40,8 +40,10 @@ malkystein100@gmail.com
 <p>
 <br></br>
 <br></br>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MalkyStein&theme=radical" alt="MalkyStein" />
-</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalkyStein&theme=radical&layout=compact)</p>
+
+
+
+
+
 
